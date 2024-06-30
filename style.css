@@ -180,6 +180,11 @@ footer .container {
     .container-products li h3 {
         font-size: 1.4em;
     }
+
+    .container-products li button {
+        font-size: 1em;
+        padding: 1.2em;
+    }
 }
 
 @media screen and (max-width: 640px) {
